@@ -26,3 +26,5 @@ https://strava.app.link/vcYXoSY9CUb
 Miles: 7.69 mi 
 Time: 29:59 
 Total Work: 168 kJ
+
+Weight: 241.6
