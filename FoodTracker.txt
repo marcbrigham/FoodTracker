@@ -68,3 +68,5 @@ Banana - 105
 Snack:
 Cheese 3.3oz - 357
 Quest Tortilla Style Protein Chips (Chili Lime) - 140
+
+Total: 1175
