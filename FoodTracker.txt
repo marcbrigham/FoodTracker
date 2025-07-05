@@ -104,7 +104,7 @@ Breakfast:
 wake up wrap (cheese) - 180
 
 Lunch:
-3 pieces of mango
+3 pieces of mango - 70
 Arizona watermelon - 360
 
 Dinner:
@@ -114,5 +114,5 @@ watermelon - 85
 mac and cheese - 125
 
 Total: 
-1550
+1620
 
