@@ -148,4 +148,7 @@ Lunch:
 Bread:140, 2 slices of turkey: 90, 1 slice of cheese: 50, Mayo: 90 = 370
 Sparkling Ice drink: 5
 
+Dinner:
+Tully's Healthy choice bowl - 600
+
 
