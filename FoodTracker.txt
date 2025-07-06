@@ -135,3 +135,5 @@ Snack:
 Quest Tortilla Style Protein Chips (Chili Lime) - 140
 
 Peanut butter and jelly sandwich - 390
+
+Total: 1340
