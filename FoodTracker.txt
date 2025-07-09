@@ -222,3 +222,5 @@ Dinner:
 Arnold Palmer Lite: 240
 Quest Tortilla Style Protein Chips (Chili Lime) - 140
 
+Total: 1355
+
