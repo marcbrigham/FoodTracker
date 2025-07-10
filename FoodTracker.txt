@@ -218,9 +218,13 @@ Lunch:
 Latin Chicken Bowl - 750
 Seaweed x2 - 55
 
-Dinner:
+Snack:
 Arnold Palmer Lite: 240
 Quest Tortilla Style Protein Chips (Chili Lime) - 140
 
-Total: 1355
+Dinner:
+Pork amd potatoes: 350
+pistachios: 170
+
+Total: 1875
 
