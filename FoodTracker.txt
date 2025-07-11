@@ -246,3 +246,5 @@ Dinner:
 6.5oz chicken Breast
 3.5oz pinto beans 
 sour cream 160
+
+Total: 800
